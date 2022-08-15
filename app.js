@@ -8,6 +8,6 @@ function getTime(){
     const minutes=now.getMinutes()
     const hours=now.getHours()
 
-    conmsole.log(now)
+    console.log(now)
 }
 getTime()
